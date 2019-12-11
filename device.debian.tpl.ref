@@ -1,0 +1,28 @@
+[$arch-$id-github-link]:{{ $links.githubMain }}-library/base-images/tree/master/balena-base-images/device-base/$id
+[$arch-$id-dockerhub-link]:https://registry.hub.docker.com/u/balenalib/$id/
+[$arch-$id-node-dockerhub-link]:https://registry.hub.docker.com/u/balenalib/$id-node/
+[$arch-$id-node-dockerhub-tag-link]:https://registry.hub.docker.com/u/balenalib/$id-node/tags/manage/
+[$arch-$id-node-github-link]:{{ $links.githubMain }}-library/base-images/tree/master/balena-base-images/node/$id
+[$arch-$id-python-dockerhub-link]:https://registry.hub.docker.com/u/balenalib/$id-python/
+[$arch-$id-python-dockerhub-tag-link]:https://registry.hub.docker.com/u/balenalib/$id-python/tags/manage/
+[$arch-$id-python-github-link]:{{ $links.githubMain }}-library/base-images/tree/master/balena-base-images/python/$id
+[$arch-$id-golang-dockerhub-link]:https://registry.hub.docker.com/u/balenalib/$id-golang/
+[$arch-$id-golang-dockerhub-tag-link]:https://registry.hub.docker.com/u/balenalib/$id-golang/tags/manage/
+[$arch-$id-golang-github-link]:{{ $links.githubMain }}-library/base-images/tree/master/balena-base-images/golang/$id
+[$arch-$id-openjdk-dockerhub-link]:https://registry.hub.docker.com/u/balenalib/$id-openjdk/
+[$arch-$id-openjdk-dockerhub-tag-link]:https://registry.hub.docker.com/u/balenalib/$id-openjdk/tags/manage/
+[$arch-$id-openjdk-github-link]:{{ $links.githubMain }}-library/base-images/tree/master/balena-base-images/openjdk/$id
+[$arch-$id-debian-github-link]:{{ $links.githubMain }}-library/base-images/tree/master/balena-base-images/device-base/$id
+[$arch-$id-debian-dockerhub-link]:https://registry.hub.docker.com/u/balenalib/$id-debian/
+[$arch-$id-debian-node-dockerhub-link]:https://registry.hub.docker.com/u/balenalib/$id-debian-node/
+[$arch-$id-debian-node-dockerhub-tag-link]:https://registry.hub.docker.com/u/balenalib/$id-debian-node/tags/manage/
+[$arch-$id-debian-node-github-link]:{{ $links.githubMain }}-library/base-images/tree/master/balena-base-images/node/$id
+[$arch-$id-debian-python-dockerhub-link]:https://registry.hub.docker.com/u/balenalib/$id-debian-python/
+[$arch-$id-debian-python-dockerhub-tag-link]:https://registry.hub.docker.com/u/balenalib/$id-debian-python/tags/manage/
+[$arch-$id-debian-python-github-link]:{{ $links.githubMain }}-library/base-images/tree/master/balena-base-images/python/$id
+[$arch-$id-debian-golang-dockerhub-link]:https://registry.hub.docker.com/u/balenalib/$id-debian-golang/
+[$arch-$id-debian-golang-dockerhub-tag-link]:https://registry.hub.docker.com/u/balenalib/$id-debian-golang/tags/manage/
+[$arch-$id-debian-golang-github-link]:{{ $links.githubMain }}-library/base-images/tree/master/balena-base-images/golang/$id
+[$arch-$id-debian-openjdk-dockerhub-link]:https://registry.hub.docker.com/u/balenalib/$id-debian-openjdk/
+[$arch-$id-debian-openjdk-dockerhub-tag-link]:https://registry.hub.docker.com/u/balenalib/$id-debian-openjdk/tags/manage/
+[$arch-$id-debian-openjdk-github-link]:{{ $links.githubMain }}-library/base-images/tree/master/balena-base-images/openjdk/$id

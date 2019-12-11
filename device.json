@@ -1,0 +1,434 @@
+[
+  {
+    "id": "raspberry-pi",
+    "name": "Raspberry Pi v1 & ZERO",
+    "arch": "armv6hf",
+    "distro": ["alpine"]
+  },
+  {
+    "id": "raspberry-pi2",
+    "name": "Raspberry Pi 2",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "raspberrypi3",
+    "name": "Raspberry Pi 3",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "beaglebone-black",
+    "name": "Beaglebone Black",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "beaglebone-green",
+    "name": "Beaglebone Green",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "beaglebone-green-wifi",
+    "name": "Beaglebone Green Wireless",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "via-vab820-quad",
+    "name": "VIA VAB 820-quad",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "zynq-xz702",
+    "name": "Zynq ZC702",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "odroid-c1",
+    "name": "ODROID-C1+",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "odroid-xu4",
+    "name": "ODROID-XU4",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "parallella",
+    "name": "Parallella",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "nitrogen6x",
+    "name": "Nitrogen 6X",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "hummingboard",
+    "name": "Hummingboard",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "colibri-imx6dl",
+    "name": "Colibri iMX6dl",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "apalis-imx6q",
+    "name": "Apslis iMX6q",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "intel-edison",
+    "name": "Intel Edison",
+    "arch": "i386",
+    "distro": ["alpine", "ubuntu"]
+  },
+  {
+    "id": "qemux86",
+    "name": "QEMU x86",
+    "arch": "i386",
+    "distro": ["alpine", "ubuntu"]
+  },
+  {
+    "id": "cybertan-ze250",
+    "name": "Intel Quark",
+    "arch": "i386",
+    "distro": ["alpine", "ubuntu"]
+  },
+  {
+    "id": "intel-nuc",
+    "name": "Intel NUC",
+    "arch": "amd64",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "qemux86-64",
+    "name": "QEMU x86-64",
+    "arch": "amd64",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "ts4900",
+    "name": "TS-4900",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "ts7700",
+    "name": "TS-7700",
+    "arch": "armel",
+    "distro": []
+  },
+  {
+    "id": "artik5",
+    "name": "Samsung Artik 520",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "artik10",
+    "name": "Samsung Artik 1020",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "artik710",
+    "name": "Samsung Artik 710",
+    "arch": "aarch64",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "kitra710",
+    "name": "RushUp Kitra 710",
+    "arch": "aarch64",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "up-board",
+    "name": "UP board",
+    "arch": "amd64",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "imx6ul-var-dart",
+    "name": "Variscite DART-6UL",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "am571x-evm",
+    "name": "AM571X EVM",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "kitra520",
+    "name": "RushUp Kitra 520",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "jetson-tx2",
+    "name": "Nvidia Jetson Tx2",
+    "arch": "aarch64",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "jetson-tx1",
+    "name": "Nvidia Jetson Tx1",
+    "arch": "aarch64",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "iot2000",
+    "name": "Siemens IOT2000",
+    "arch": "i386",
+    "distro": ["alpine", "ubuntu"]
+  },
+  {
+    "id": "bananapi-m1-plus",
+    "name": "BananaPi-M1+",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "generic-aarch64",
+    "name": "Generic AARCH64 (ARMv8)",
+    "arch": "aarch64",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "generic-armv7ahf",
+    "name": "Generic ARMv7-a HF",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "orangepi-plus2",
+    "name": "Orange Pi Plus2",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "fincm3",
+    "name": "Balena Fin",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "artik533s",
+    "name": "Samsung Artik 530s 1G",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "artik530",
+    "name": "Samsung Artik 530",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "orbitty-tx2",
+    "name": "CTI Orbitty TX2",
+    "arch": "aarch64",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "spacely-tx2",
+    "name": "CTI Spacely TX2",
+    "arch": "aarch64",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "revpi-core-3",
+    "name": "Revolution Pi Core 3",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "asus-tinker-board-s",
+    "name": "Asus Tinker Board S",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "asus-tinker-board",
+    "name": "Asus Tinker Board",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "var-som-mx6",
+    "name": "Variscite VAR-SOM-MX6",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "beaglebone-pocket",
+    "name": "PocketBeagle",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "imx7-var-som",
+    "name": "Variscite VAR-SOM-MX7",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "cl-som-imx8",
+    "name": "Compulab iMX8",
+    "arch": "aarch64",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "imx8m-var-dart",
+    "name": "Variscite DART-MX8M",
+    "arch": "aarch64",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "orange-pi-zero",
+    "name": "Orange Pi Zero",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "orange-pi-one",
+    "name": "Orange Pi One",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "raspberrypi3-64",
+    "name": "Raspberry Pi 3 64bits",
+    "arch": "aarch64",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "n510-tx2",
+    "name": "Aetina N510 TX2",
+    "arch": "aarch64",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "nitrogen6xq2g",
+    "name": "Nitrogen 6X Quad 2GB",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "npe-x500-m3",
+    "name": "NPE X500 M3",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "jetson-nano",
+    "name": "Nvidia Jetson Nano",
+    "arch": "aarch64",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "srd3-tx2",
+    "name": "Nvidia D3 TX2",
+    "arch": "aarch64",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "blackboard-tx2",
+    "name": "Nvidia blackboard TX2",
+    "arch": "aarch64",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "orange-pi-lite",
+    "name": "Orange Pi Lite",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "surface-pro-6",
+    "name": "Microsoft Surface Pro 6",
+    "arch": "amd64",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "beagleboard-xm",
+    "name": "BeagleBoard-XM",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "nanopc-t4",
+    "name": "NanoPC-T4",
+    "arch": "armv7hf",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "jetson-xavier",
+    "name": "Nvidia Jetson Xavier",
+    "arch": "aarch64",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "up-core-plus",
+    "name": "UP Core Plus",
+    "arch": "amd64",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "up-core",
+    "name": "UP Core",
+    "arch": "amd64",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "up-squared",
+    "name": "UP Squared",
+    "arch": "amd64",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "nitrogen8mm",
+    "name": "Nitrogen8M Mini SBC",
+    "arch": "aarch64",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "raspberrypi4-64",
+    "name": "Raspberry Pi 4 (using 64bit OS)",
+    "arch": "aarch64",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "surface-go",
+    "name": "Microsoft Surface Go",
+    "arch": "amd64",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "jn30b-nano",
+    "name": "Auvidea JN30B Nano",
+    "arch": "aarch64",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  },
+  {
+    "id": "coral-dev",
+    "name": "Google Coral Dev Board",
+    "arch": "aarch64",
+    "distro": ["alpine", "fedora", "ubuntu"]
+  }
+]
