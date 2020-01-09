@@ -1,5 +1,5 @@
-| balenalib/$id-fedora | [Docker Hub][$arch-$id-fedora-node-dockerhub-link], [github][$arch-$id-fedora-node-github-link] | latest, 28, 26 |
-| balenalib/$id-fedora-node | [Docker Hub][$arch-$id-fedora-node-dockerhub-link], [github][$arch-$id-fedora-node-github-link] | For available image tags, refer [here][$arch-$id-fedora-node-dockerhub-tag-link] |
-| balenalib/$id-fedora-python | [Docker Hub][$arch-$id-fedora-python-dockerhub-link], [github][$arch-$id-fedora-python-github-link] | For available image tags, refer [here][$arch-$id-fedora-python-dockerhub-tag-link] |
-| balenalib/$id-fedora-golang | [Docker Hub][$arch-$id-fedora-golang-dockerhub-link], [github][$arch-$id-fedora-golang-github-link] | For available image tags, refer [here][$arch-$id-fedora-golang-dockerhub-tag-link] |
-| balenalib/$id-fedora-openjdk | [Docker Hub][$arch-$id-fedora-openjdk-dockerhub-link], [github][$arch-$id-fedora-openjdk-github-link] | For available image tags, refer [here][$arch-$id-fedora-openjdk-dockerhub-tag-link] |
+| balenalib/$id-fedora | [Docker Hub][$arch-$id-fedora-node-dockerhub-link], [GitHub][$arch-$id-fedora-node-github-link] | latest, 31, 30, 29, 28, 26 |
+| balenalib/$id-fedora-node | [Docker Hub][$arch-$id-fedora-node-dockerhub-link], [GitHub][$arch-$id-fedora-node-github-link] | For available image tags, refer [here][$arch-$id-fedora-node-dockerhub-tag-link] |
+| balenalib/$id-fedora-python | [Docker Hub][$arch-$id-fedora-python-dockerhub-link], [GitHub][$arch-$id-fedora-python-github-link] | For available image tags, refer [here][$arch-$id-fedora-python-dockerhub-tag-link] |
+| balenalib/$id-fedora-golang | [Docker Hub][$arch-$id-fedora-golang-dockerhub-link], [GitHub][$arch-$id-fedora-golang-github-link] | For available image tags, refer [here][$arch-$id-fedora-golang-dockerhub-tag-link] |
+| balenalib/$id-fedora-openjdk | [Docker Hub][$arch-$id-fedora-openjdk-dockerhub-link], [GitHub][$arch-$id-fedora-openjdk-github-link] | For available image tags, refer [here][$arch-$id-fedora-openjdk-dockerhub-tag-link] |

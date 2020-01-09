@@ -1,5 +1,5 @@
-| balenalib/$id-ubuntu | [Docker Hub][$arch-$id-ubuntu-dockerhub-link], [github][$arch-$id-ubuntu-github-link] | latest, trusty, xenial, artful, bionic, cosmic |
-| balenalib/$id-ubuntu-node | [Docker Hub][$arch-$id-ubuntu-node-dockerhub-link], [github][$arch-$id-ubuntu-node-github-link] | For available image tags, refer [here][$arch-$id-ubuntu-node-dockerhub-tag-link] |
-| balenalib/$id-ubuntu-python | [Docker Hub][$arch-$id-ubuntu-python-dockerhub-link], [github][$arch-$id-ubuntu-python-github-link] | For available image tags, refer [here][$arch-$id-ubuntu-python-dockerhub-tag-link] |
-| balenalib/$id-ubuntu-golang | [Docker Hub][$arch-$id-ubuntu-golang-dockerhub-link], [github][$arch-$id-ubuntu-golang-github-link] | For available image tags, refer [here][$arch-$id-ubuntu-golang-dockerhub-tag-link] |
-| balenalib/$id-ubuntu-openjdk | [Docker Hub][$arch-$id-ubuntu-openjdk-dockerhub-link], [github][$arch-$id-ubuntu-openjdk-github-link] | For available image tags, refer [here][$arch-$id-ubuntu-openjdk-dockerhub-tag-link] |
+| balenalib/$id-ubuntu | [Docker Hub][$arch-$id-ubuntu-dockerhub-link], [GitHub][$arch-$id-ubuntu-github-link] | latest, eoan, disco, cosmic, bionic, xenial |
+| balenalib/$id-ubuntu-node | [Docker Hub][$arch-$id-ubuntu-node-dockerhub-link], [GitHub][$arch-$id-ubuntu-node-github-link] | For available image tags, refer [here][$arch-$id-ubuntu-node-dockerhub-tag-link] |
+| balenalib/$id-ubuntu-python | [Docker Hub][$arch-$id-ubuntu-python-dockerhub-link], [GitHub][$arch-$id-ubuntu-python-github-link] | For available image tags, refer [here][$arch-$id-ubuntu-python-dockerhub-tag-link] |
+| balenalib/$id-ubuntu-golang | [Docker Hub][$arch-$id-ubuntu-golang-dockerhub-link], [GitHub][$arch-$id-ubuntu-golang-github-link] | For available image tags, refer [here][$arch-$id-ubuntu-golang-dockerhub-tag-link] |
+| balenalib/$id-ubuntu-openjdk | [Docker Hub][$arch-$id-ubuntu-openjdk-dockerhub-link], [GitHub][$arch-$id-ubuntu-openjdk-github-link] | For available image tags, refer [here][$arch-$id-ubuntu-openjdk-dockerhub-tag-link] |

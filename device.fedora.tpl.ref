@@ -1,14 +1,14 @@
-[$arch-$id-fedora-dockerhub-link]:https://registry.hub.docker.com/u/balenalib/$id-fedora/
+[$arch-$id-fedora-dockerhub-link]:https://registry.hub.docker.com/r/balenalib/$id-fedora/
 [$arch-$id-fedora-github-link]:{{ $links.githubMain }}-library/base-images/tree/master/balena-base-images/device-base/$id
-[$arch-$id-fedora-node-dockerhub-link]:https://registry.hub.docker.com/u/balenalib/$id-fedora-node/
-[$arch-$id-fedora-node-dockerhub-tag-link]:https://registry.hub.docker.com/u/balenalib/$id-fedora-node/tags/manage/
+[$arch-$id-fedora-node-dockerhub-link]:https://registry.hub.docker.com/r/balenalib/$id-fedora-node/
+[$arch-$id-fedora-node-dockerhub-tag-link]:https://registry.hub.docker.com/r/balenalib/$id-fedora-node/tags
 [$arch-$id-fedora-node-github-link]:{{ $links.githubMain }}-library/base-images/tree/master/balena-base-images/node/$id
-[$arch-$id-fedora-python-dockerhub-link]:https://registry.hub.docker.com/u/balenalib/$id-fedora-python/
-[$arch-$id-fedora-python-dockerhub-tag-link]:https://registry.hub.docker.com/u/balenalib/$id-fedora-python/tags/manage/
+[$arch-$id-fedora-python-dockerhub-link]:https://registry.hub.docker.com/r/balenalib/$id-fedora-python/
+[$arch-$id-fedora-python-dockerhub-tag-link]:https://registry.hub.docker.com/r/balenalib/$id-fedora-python/tags
 [$arch-$id-fedora-python-github-link]:{{ $links.githubMain }}-library/base-images/tree/master/balena-base-images/python/$id
-[$arch-$id-fedora-golang-dockerhub-link]:https://registry.hub.docker.com/u/balenalib/$id-fedora-golang/
-[$arch-$id-fedora-golang-dockerhub-tag-link]:https://registry.hub.docker.com/u/balenalib/$id-fedora-golang/tags/manage/
+[$arch-$id-fedora-golang-dockerhub-link]:https://registry.hub.docker.com/r/balenalib/$id-fedora-golang/
+[$arch-$id-fedora-golang-dockerhub-tag-link]:https://registry.hub.docker.com/r/balenalib/$id-fedora-golang/tags
 [$arch-$id-fedora-golang-github-link]:{{ $links.githubMain }}-library/base-images/tree/master/balena-base-images/golang/$id
-[$arch-$id-fedora-openjdk-dockerhub-link]:https://registry.hub.docker.com/u/balenalib/$id-fedora-openjdk/
-[$arch-$id-fedora-openjdk-dockerhub-tag-link]:https://registry.hub.docker.com/u/balenalib/$id-fedora-openjdk/tags/manage/
+[$arch-$id-fedora-openjdk-dockerhub-link]:https://registry.hub.docker.com/r/balenalib/$id-fedora-openjdk/
+[$arch-$id-fedora-openjdk-dockerhub-tag-link]:https://registry.hub.docker.com/r/balenalib/$id-fedora-openjdk/tags
 [$arch-$id-fedora-openjdk-github-link]:{{ $links.githubMain }}-library/base-images/tree/master/balena-base-images/openjdk/$id

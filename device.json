@@ -42,12 +42,6 @@
     "distro": ["alpine", "fedora", "ubuntu"]
   },
   {
-    "id": "zynq-xz702",
-    "name": "Zynq ZC702",
-    "arch": "armv7hf",
-    "distro": ["alpine", "fedora", "ubuntu"]
-  },
-  {
     "id": "odroid-c1",
     "name": "ODROID-C1+",
     "arch": "armv7hf",
