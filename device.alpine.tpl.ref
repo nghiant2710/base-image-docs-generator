@@ -1,14 +1,14 @@
 [$arch-$id-alpine-github-link]:{{ $links.githubMain }}-library/base-images/tree/master/balena-base-images/device-base/$id
-[$arch-$id-alpine-dockerhub-link]:https://registry.hub.docker.com/u/balenalib/$id-alpine/
+[$arch-$id-alpine-dockerhub-link]:https://registry.hub.docker.com/r/balenalib/$id-alpine/
 [$arch-$id-alpine-node-github-link]:{{ $links.githubMain }}-library/base-images/tree/master/balena-base-images/node/$id
-[$arch-$id-alpine-node-dockerhub-link]:https://registry.hub.docker.com/u/balenalib/$id-alpine-node/
-[$arch-$id-alpine-node-dockerhub-tag-link]:https://registry.hub.docker.com/u/balenalib/$id-alpine-node/tags/manage/
+[$arch-$id-alpine-node-dockerhub-link]:https://registry.hub.docker.com/r/balenalib/$id-alpine-node/
+[$arch-$id-alpine-node-dockerhub-tag-link]:https://registry.hub.docker.com/r/balenalib/$id-alpine-node/tags
 [$arch-$id-alpine-python-github-link]:{{ $links.githubMain }}-library/base-images/tree/master/balena-base-images/python/$id
-[$arch-$id-alpine-python-dockerhub-link]:https://registry.hub.docker.com/u/balenalib/$id-alpine-python/
-[$arch-$id-alpine-python-dockerhub-tag-link]:https://registry.hub.docker.com/u/balenalib/$id-alpine-python/tags/manage/
-[$arch-$id-alpine-golang-dockerhub-link]:https://registry.hub.docker.com/u/balenalib/$id-alpine-golang/
-[$arch-$id-alpine-golang-dockerhub-tag-link]:https://registry.hub.docker.com/u/balenalib/$id-alpine-golang/tags/manage/
+[$arch-$id-alpine-python-dockerhub-link]:https://registry.hub.docker.com/r/balenalib/$id-alpine-python/
+[$arch-$id-alpine-python-dockerhub-tag-link]:https://registry.hub.docker.com/r/balenalib/$id-alpine-python/tags
+[$arch-$id-alpine-golang-dockerhub-link]:https://registry.hub.docker.com/r/balenalib/$id-alpine-golang/
+[$arch-$id-alpine-golang-dockerhub-tag-link]:https://registry.hub.docker.com/r/balenalib/$id-alpine-golang/tags
 [$arch-$id-alpine-golang-github-link]:{{ $links.githubMain }}-library/base-images/tree/master/balena-base-images/golang/$id
-[$arch-$id-alpine-openjdk-dockerhub-link]:https://registry.hub.docker.com/u/balenalib/$id-alpine-openjdk/
-[$arch-$id-alpine-openjdk-dockerhub-tag-link]:https://registry.hub.docker.com/u/balenalib/$id-alpine-openjdk/tags/manage/
+[$arch-$id-alpine-openjdk-dockerhub-link]:https://registry.hub.docker.com/r/balenalib/$id-alpine-openjdk/
+[$arch-$id-alpine-openjdk-dockerhub-tag-link]:https://registry.hub.docker.com/r/balenalib/$id-alpine-openjdk/tags
 [$arch-$id-alpine-openjdk-github-link]:{{ $links.githubMain }}-library/base-images/tree/master/balena-base-images/openjdk/$id

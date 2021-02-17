@@ -1,14 +1,14 @@
-[$arch-$id-ubuntu-dockerhub-link]:https://registry.hub.docker.com/u/balenalib/$id-ubuntu/
+[$arch-$id-ubuntu-dockerhub-link]:https://registry.hub.docker.com/r/balenalib/$id-ubuntu/
 [$arch-$id-ubuntu-github-link]:{{ $links.githubMain }}-library/base-images/tree/master/balena-base-images/device-base/$id
-[$arch-$id-ubuntu-node-dockerhub-link]:https://registry.hub.docker.com/u/balenalib/$id-ubuntu-node/
-[$arch-$id-ubuntu-node-dockerhub-tag-link]:https://registry.hub.docker.com/u/balenalib/$id-ubuntu-node/tags/manage/
+[$arch-$id-ubuntu-node-dockerhub-link]:https://registry.hub.docker.com/r/balenalib/$id-ubuntu-node/
+[$arch-$id-ubuntu-node-dockerhub-tag-link]:https://registry.hub.docker.com/r/balenalib/$id-ubuntu-node/tags
 [$arch-$id-ubuntu-node-github-link]:{{ $links.githubMain }}-library/base-images/tree/master/balena-base-images/node/$id
-[$arch-$id-ubuntu-python-dockerhub-link]:https://registry.hub.docker.com/u/balenalib/$id-ubuntu-python/
-[$arch-$id-ubuntu-python-dockerhub-tag-link]:https://registry.hub.docker.com/u/balenalib/$id-ubuntu-python/tags/manage/
+[$arch-$id-ubuntu-python-dockerhub-link]:https://registry.hub.docker.com/r/balenalib/$id-ubuntu-python/
+[$arch-$id-ubuntu-python-dockerhub-tag-link]:https://registry.hub.docker.com/r/balenalib/$id-ubuntu-python/tags
 [$arch-$id-ubuntu-python-github-link]:{{ $links.githubMain }}-library/base-images/tree/master/balena-base-images/python/$id
-[$arch-$id-ubuntu-golang-dockerhub-link]:https://registry.hub.docker.com/u/balenalib/$id-ubuntu-golang/
-[$arch-$id-ubuntu-golang-dockerhub-tag-link]:https://registry.hub.docker.com/u/balenalib/$id-ubuntu-golang/tags/manage/
+[$arch-$id-ubuntu-golang-dockerhub-link]:https://registry.hub.docker.com/r/balenalib/$id-ubuntu-golang/
+[$arch-$id-ubuntu-golang-dockerhub-tag-link]:https://registry.hub.docker.com/r/balenalib/$id-ubuntu-golang/tags
 [$arch-$id-ubuntu-golang-github-link]:{{ $links.githubMain }}-library/base-images/tree/master/balena-base-images/golang/$id
-[$arch-$id-ubuntu-openjdk-dockerhub-link]:https://registry.hub.docker.com/u/balenalib/$id-ubuntu-openjdk/
-[$arch-$id-ubuntu-openjdk-dockerhub-tag-link]:https://registry.hub.docker.com/u/balenalib/$id-ubuntu-openjdk/tags/manage/
+[$arch-$id-ubuntu-openjdk-dockerhub-link]:https://registry.hub.docker.com/r/balenalib/$id-ubuntu-openjdk/
+[$arch-$id-ubuntu-openjdk-dockerhub-tag-link]:https://registry.hub.docker.com/r/balenalib/$id-ubuntu-openjdk/tags
 [$arch-$id-ubuntu-openjdk-github-link]:{{ $links.githubMain }}-library/base-images/tree/master/balena-base-images/openjdk/$id

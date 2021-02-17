@@ -22,5 +22,4 @@ $aarch64
 
 $armel
 
-
 $REF
